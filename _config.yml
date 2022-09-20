@@ -10,7 +10,7 @@ plugins:
 
 # Build settings
 markdown: kramdown
-theme: Biscuit
+remote_theme: Biscuit
 exclude: ["README.md"]
 sass:
   style: compressed
