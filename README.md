@@ -1,7 +1,6 @@
 # Biscuit theme for Jekyll
 
 [Biscuit](http://sblisesivdin.github.io/biscuit) is a single-page responsive Jekyll theme. This is the most simple and still-good-looking Jekyll theme that you can find.
-ukygfuygduyg
 
 ## Usage
 
@@ -15,3 +14,12 @@ If you prefer to use Github Pages, you do not need to download it, upload files 
 Biscuit is derived from currently deprecated theme [Solo](http://github.com/chibicode/solo). The development of Biscuit is maintained by [Sefer Bora Lisesivdin](https://lrgresearch.org/bora).
 
 Biscuit and [the previous code](http://github.com/chibicode/solo) where Biscuit is derived are distributed with [MIT license](https://github.com/sblisesivdin/biscuit/blob/gh-pages/LICENSE).
+
+Files
+_config.yml : Main configuration file.
+index.md : Website page (for now, this page).
+_includes/head.html : File to add custom code to <head> section.
+_includes/scripts.html : File to add custom code before </body>. You can change footer at here.
+_sass folder : Related scss files can be found at this folder.
+css/main.csss : Main scss file.
+README.md : A simple readme file.
