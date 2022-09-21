@@ -15,4 +15,5 @@ I studied Genetics following a childhood intense interest in genetic engineering
 I am interested in biology, genetics, futurism, techno-optimism, techno-capitalism and space *✧･ﾟ: *✧･ﾟ:
 
 
-![greece img](assets/ScreenshotPixelGreece.png =50%x) ![microscope img](assets/ScreenshotPixelMicroscope.png =50%x)
+<img src="assets/ScreenshotPixelGreece.png" width="100"/> <img src="assets/ScreenshotPixelMicroscope.png" width="100"/> 
+
