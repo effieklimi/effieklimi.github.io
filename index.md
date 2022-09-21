@@ -19,6 +19,8 @@ I am interested in biology, genetics, futurism, techno-optimism, techno-capitali
 
 
 
-<p style="text-align: center;">🇬🇷 ➟ 🇬🇧 ➟ ?</p>
+<div align="center">
+  🇬🇷 ➟ 🇬🇧 ➟ ?
+</div>
 
 
