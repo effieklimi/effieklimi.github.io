@@ -18,5 +18,7 @@ I am interested in biology, genetics, futurism, techno-optimism, techno-capitali
 ![Greece and a microscope](assets/Screenshots.PNG)
 
 
-🇬🇷 ➟ 🇬🇧 ➟ ?
+<center>🇬🇷 ➟ 🇬🇧 ➟ ?</center>
+
+
 
