@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Banner](assets/Screenshot%202022-09-20%20at%2016.06.47.png)
+![Banner](assets/IMG_5113.png)
 
 
 **[Twitter](http://twitter.com/heffiemetal)**  //  **[Substack](http://effieklimi.substack.com)**  //  **[About me]()**  //  **[Content I recommend]()**  
