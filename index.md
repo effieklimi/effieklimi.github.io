@@ -5,7 +5,7 @@ layout: default
 ![Me](assets/IMG_5113.PNG)
 
 
-**[Twitter](http://twitter.com/heffiemetal)**,    **[Substack](http://effieklimi.substack.com)**,    **[Content recs](https://github.com/effieklimi/content-recs)**  
+✧⋄⋆⋅⋆⋄✧⋄⋆⋅⋆⋄✧ **[Twitter](http://twitter.com/heffiemetal)**,    **[Substack](http://effieklimi.substack.com)**,    **[Content recs](https://github.com/effieklimi/content-recs)**  ✧⋄⋆⋅⋆⋄✧⋄⋆⋅⋆⋄✧
 
 
 I'm **Effie** and this is my space. I post texts I wrote in an attempt to understand things + organise my thoughts ❤️
