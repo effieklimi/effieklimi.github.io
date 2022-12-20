@@ -12,10 +12,26 @@ making R/Python packages for transcriptomics pipelines
 a wet lab experiment helper (coming soon ⌛)
 
 
-🚀 **[My Email](mailto:effieklimi@icloud.com)**, **[My code](https://github.com/effieklimi)** ,  **[Content recs](https://github.com/effieklimi/content-recs)**, **[Where I tweet](http://twitter.com/heffiemetal)**, **[Where I write](http://effieklimi.substack.com)** 💫
+🚀 **[Email](mailto:effieklimi@icloud.com)**, **[My code](https://github.com/effieklimi)** ,  **[Content recs](https://github.com/effieklimi/content-recs)**, **[Twitter](http://twitter.com/heffiemetal)**, **[Writing](http://effieklimi.substack.com)** 💫
   
 
 
 <div align="center">
   🇬🇷 ➟ 🇬🇧 ➟ ?
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 </div>
