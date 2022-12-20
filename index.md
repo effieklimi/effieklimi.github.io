@@ -4,27 +4,18 @@ layout: default
 
 
 
-  ° 　⁺ ⁺ ✧ ┊┊┊ **[Twitter](http://twitter.com/heffiemetal)**,    **[Substack](http://effieklimi.substack.com)**,    **[Content recs](https://github.com/effieklimi/content-recs)**  ┊┊┊ ✧ ⁺ ⁺ 　°
+💟 I'm **Effie**, a geneticist, molecular & computational biologist. 
+
+**What I work on:** 
+my [PhD](https://gtr.ukri.org/projects?ref=studentship-2273599)
+making R/Python packages for transcriptomics pipelines
+a wet lab experiment helper (coming soon ⌛)
 
 
-![Me](assets/IMG_5113.PNG)
-
-
-I'm **Effie** and this is my space. I post texts I wrote in an attempt to understand things + organise my thoughts ❤️
-
+🚀 **[My Email](mailto:effieklimi@icloud.com)**, **[My code](https://github.com/effieklimi)** ,  **[Content recs](https://github.com/effieklimi/content-recs)**, **[Where I tweet](http://twitter.com/heffiemetal)**, **[Where I write](http://effieklimi.substack.com)** 💫
   
-I studied Genetics following a childhood intense interest in genetic engineering, provoked by this [book](https://www.goodreads.com/book/show/6394363-genes-dna). After working on projects ranging from yeast molecular genetics and structural biology to evolutionary genetics/mathematical modelling and data science/computing, I started my PhD at the University of Edinburgh. 
-
-Currently, I am investigating the initiating factors of pathological vascular smooth muscle cell remodelling due to to injury and evaluate RNA therapeutic candidates + viral vector delivery for vein graft failure. 
-
-I am interested in biology, genetics, futurism, techno-optimism, techno-capitalism and space *✧･ﾟ: *✧･ﾟ:
-
-
-![Greece and a microscope](assets/Screenshots.PNG)
 
 
 <div align="center">
   🇬🇷 ➟ 🇬🇧 ➟ ?
 </div>
-
-
