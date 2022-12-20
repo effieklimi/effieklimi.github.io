@@ -2,6 +2,10 @@
 layout: default
 ---
 
+div {
+  background-color: black;
+  color: white;
+
 
 
 💟 I'm **Effie**, a geneticist, molecular & computational biologist. 
@@ -21,6 +25,7 @@ a wet lab experiment helper (coming soon ⌛)
   
   
   
+}
   
   
   
